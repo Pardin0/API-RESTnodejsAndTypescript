@@ -1,0 +1,24 @@
+2022-09-08 07:43:44 - [31merror[39m:[31mOcorreu um erro no sistema: user is not allowed to do action [insert] on [test.croches][39m
+2022-09-08 07:46:08 - [31merror[39m:[31mOcorreu um erro no sistema: user is not allowed to do action [insert] on [test.croches][39m
+2022-09-08 07:56:28 - [31merror[39m:[31mOcorreu um erro no sistema: connection <monitor> to 54.94.211.62:27017 closed[39m
+2022-09-08 08:21:59 - [31merror[39m:[31mOcorreu um erro no sistema: Operation `croches.insertOne()` buffering timed out after 10000ms[39m
+2022-09-08 08:22:01 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:22:58 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:26:05 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:27:19 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:31:57 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:33:26 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:45:53 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:50:47 - [31merror[39m:[31mOcorreu um erro no sistema: user is not allowed to do action [insert] on [test.croches][39m
+2022-09-10 09:29:07 - [31merror[39m:[31mOcorreu um erro no sistema: Croche validation failed: size: Cast to Number failed for value "10cm" (type string) at path "size"[39m
+2022-09-10 09:29:57 - [31merror[39m:[31mOcorreu um erro no sistema: Croche validation failed: size: Cast to Number failed for value "10cm" (type string) at path "size"[39m
+2022-09-10 09:36:11 - [31merror[39m:[31mOcorreu um erro no sistema: Croche validation failed: size: Cast to Number failed for value "10cm" (type string) at path "size"[39m
+2022-09-10 09:46:37 - [31merror[39m:[31mOcorreu um erro no sistema: Croche validation failed: deadline: Cast to Number failed for value "5 dias" (type string) at path "deadline"[39m
+2022-09-10 09:47:01 - [31merror[39m:[31mOcorreu um erro no sistema: Croche validation failed: deadline: Cast to Number failed for value "cindo dias" (type string) at path "deadline"[39m
+2022-09-10 09:57:29 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value ":631c8775182156a2f5fee7db" (type string) at path "_id" for model "Croche"[39m
+2022-09-10 09:57:49 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value ":631c8775182156a2f5fee7dn" (type string) at path "_id" for model "Croche"[39m
+2022-09-10 09:57:55 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value ":631c8775182156a2f5fee7dn" (type string) at path "_id" for model "Croche"[39m
+2022-09-10 10:16:07 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value "631c8775182156a2f5fee7dn" (type string) at path "_id" for model "Croche"[39m
+2022-09-10 10:17:19 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value "631c8775182156a2f5fee7dn" (type string) at path "_id" for model "Croche"[39m
+2022-09-11 06:30:06 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value "jif6sakjdf9" (type string) at path "_id" for model "Croche"[39m
+2022-09-11 06:30:34 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value "jif6sakjdf9" (type string) at path "_id" for model "Croche"[39m

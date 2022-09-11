@@ -1,0 +1,417 @@
+2022-09-07 23:59:26 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 00:02:20 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 00:02:20 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 00:05:19 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 00:05:19 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 00:18:55 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 00:18:55 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 00:19:19 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 00:19:19 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 00:19:23 - [35mhttp[39m:[35mGET /api/test 200 12 - 1.992 ms[39m
+[35m[39m
+2022-09-08 00:20:13 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 00:20:13 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 05:52:03 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 05:52:03 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 07:14:07 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 07:14:07 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 07:23:42 - [35mhttp[39m:[35mPOST /api/croche 200 29 - 2.089 ms[39m
+[35m[39m
+2022-09-08 07:28:45 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 07:28:45 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 07:40:36 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 07:40:36 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 07:43:44 - [31merror[39m:[31mOcorreu um erro no sistema: user is not allowed to do action [insert] on [test.croches][39m
+2022-09-08 07:44:39 - [35mhttp[39m:[35mPOST /api/croche - - - - ms[39m
+[35m[39m
+2022-09-08 07:46:08 - [31merror[39m:[31mOcorreu um erro no sistema: user is not allowed to do action [insert] on [test.croches][39m
+2022-09-08 07:46:10 - [35mhttp[39m:[35mPOST /api/croche - - - - ms[39m
+[35m[39m
+2022-09-08 07:56:28 - [31merror[39m:[31mOcorreu um erro no sistema: connection <monitor> to 54.94.211.62:27017 closed[39m
+2022-09-08 08:21:57 - [35mhttp[39m:[35mPOST /api/croche - - - - ms[39m
+[35m[39m
+2022-09-08 08:21:59 - [31merror[39m:[31mOcorreu um erro no sistema: Operation `croches.insertOne()` buffering timed out after 10000ms[39m
+2022-09-08 08:22:01 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:22:58 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:26:05 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:27:19 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:31:57 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:33:26 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:45:53 - [31merror[39m:[31mA conecção falhou![39m
+2022-09-08 08:50:39 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 08:50:39 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 08:50:47 - [31merror[39m:[31mOcorreu um erro no sistema: user is not allowed to do action [insert] on [test.croches][39m
+2022-09-08 08:51:02 - [35mhttp[39m:[35mPOST /api/croche - - - - ms[39m
+[35m[39m
+2022-09-08 08:51:29 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 124.127 ms[39m
+[35m[39m
+2022-09-08 08:54:21 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 63.153 ms[39m
+[35m[39m
+2022-09-08 09:09:12 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 09:09:12 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 09:09:24 - [35mhttp[39m:[35mPOST /api/croche 422 58 - 4.307 ms[39m
+[35m[39m
+2022-09-08 09:09:52 - [35mhttp[39m:[35mPOST /api/croche 422 58 - 0.787 ms[39m
+[35m[39m
+2022-09-08 09:10:09 - [35mhttp[39m:[35mPOST /api/croche 422 58 - 0.723 ms[39m
+[35m[39m
+2022-09-08 09:12:22 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 09:12:22 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 09:12:43 - [35mhttp[39m:[35mPOST /api/croche 422 106 - 4.609 ms[39m
+[35m[39m
+2022-09-08 09:14:41 - [35mhttp[39m:[35mPOST /api/croche 422 106 - 1.277 ms[39m
+[35m[39m
+2022-09-08 09:15:02 - [35mhttp[39m:[35mPOST /api/croche 422 106 - 0.766 ms[39m
+[35m[39m
+2022-09-08 10:06:44 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 10:06:44 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 10:07:22 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 10:07:22 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 10:07:32 - [35mhttp[39m:[35mPOST /api/croche 422 143 - 5.469 ms[39m
+[35m[39m
+2022-09-08 10:07:50 - [35mhttp[39m:[35mPOST /api/croche 422 143 - 1.155 ms[39m
+[35m[39m
+2022-09-08 10:07:56 - [35mhttp[39m:[35mPOST /api/croche 422 143 - 1.617 ms[39m
+[35m[39m
+2022-09-08 10:13:00 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 10:13:00 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 10:14:17 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 10:14:17 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 10:16:38 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 126.984 ms[39m
+[35m[39m
+2022-09-08 10:17:10 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 63.698 ms[39m
+[35m[39m
+2022-09-08 10:20:43 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 94.153 ms[39m
+[35m[39m
+2022-09-08 10:21:37 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 10:21:37 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-08 10:21:43 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 88.677 ms[39m
+[35m[39m
+2022-09-08 10:49:45 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-08 10:49:45 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 04:59:20 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 04:59:20 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 05:01:39 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 05:01:39 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 05:07:38 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 81.622 ms[39m
+[35m[39m
+2022-09-10 05:16:43 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 05:16:43 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 05:17:59 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 05:17:59 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 05:18:14 - [35mhttp[39m:[35mPOST /api/croche 302 23 - 3.210 ms[39m
+[35m[39m
+2022-09-10 05:18:14 - [35mhttp[39m:[35mGET / 404 139 - 2.202 ms[39m
+[35m[39m
+2022-09-10 05:18:52 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 05:18:52 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 05:18:53 - [35mhttp[39m:[35mPOST /api/croche 302 23 - 2.540 ms[39m
+[35m[39m
+2022-09-10 05:18:53 - [35mhttp[39m:[35mGET / 404 139 - 1.299 ms[39m
+[35m[39m
+2022-09-10 05:19:08 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 05:19:08 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 05:19:09 - [35mhttp[39m:[35mPOST /api/croche 302 23 - 2.230 ms[39m
+[35m[39m
+2022-09-10 05:19:09 - [35mhttp[39m:[35mGET / 404 139 - 1.528 ms[39m
+[35m[39m
+2022-09-10 05:20:05 - [35mhttp[39m:[35mPOST /api/croche 302 23 - 0.725 ms[39m
+[35m[39m
+2022-09-10 05:20:05 - [35mhttp[39m:[35mGET / 404 139 - 0.763 ms[39m
+[35m[39m
+2022-09-10 05:20:34 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 05:20:34 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 05:20:34 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 81.090 ms[39m
+[35m[39m
+2022-09-10 05:21:00 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 05:21:00 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 05:21:04 - [35mhttp[39m:[35mPOST /api/croche 302 29 - 2.516 ms[39m
+[35m[39m
+2022-09-10 05:21:04 - [35mhttp[39m:[35mGET /croche 404 145 - 1.735 ms[39m
+[35m[39m
+2022-09-10 05:21:28 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 05:21:28 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 05:21:28 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 116.801 ms[39m
+[35m[39m
+2022-09-10 05:21:36 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 05:21:36 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 05:29:27 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 05:29:27 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 05:29:47 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 82.443 ms[39m
+[35m[39m
+2022-09-10 05:29:58 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 05:29:58 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:01:21 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:01:21 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:03:38 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 84.184 ms[39m
+[35m[39m
+2022-09-10 06:07:00 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:07:00 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:07:02 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 79.711 ms[39m
+[35m[39m
+2022-09-10 06:07:31 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:07:31 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:07:33 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 87.853 ms[39m
+[35m[39m
+2022-09-10 06:12:51 - [35mhttp[39m:[35mPOST /api//croche 201 120 - 65.386 ms[39m
+[35m[39m
+2022-09-10 06:14:41 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:14:41 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:14:47 - [35mhttp[39m:[35mPOST /api//croche 200 29 - 2.091 ms[39m
+[35m[39m
+2022-09-10 06:21:03 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:21:03 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:21:18 - [35mhttp[39m:[35mPOST /api//croche 201 120 - 86.374 ms[39m
+[35m[39m
+2022-09-10 06:21:29 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 86.657 ms[39m
+[35m[39m
+2022-09-10 06:21:53 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 63.760 ms[39m
+[35m[39m
+2022-09-10 06:23:41 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:23:41 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:24:06 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:24:06 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:24:09 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:24:09 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:24:14 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 81.301 ms[39m
+[35m[39m
+2022-09-10 06:25:26 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:25:26 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:28:15 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:28:15 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:28:20 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 83.914 ms[39m
+[35m[39m
+2022-09-10 06:28:58 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:28:58 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:29:01 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 88.404 ms[39m
+[35m[39m
+2022-09-10 06:29:14 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 67.673 ms[39m
+[35m[39m
+2022-09-10 06:31:04 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:31:04 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:31:07 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 85.856 ms[39m
+[35m[39m
+2022-09-10 06:38:15 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:38:15 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:39:11 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 205.631 ms[39m
+[35m[39m
+2022-09-10 06:52:09 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:52:09 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:52:16 - [35mhttp[39m:[35mPOST /api/croche 201 120 - 114.516 ms[39m
+[35m[39m
+2022-09-10 06:57:35 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:57:35 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:58:56 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:58:56 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:59:01 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:59:01 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 06:59:09 - [35mhttp[39m:[35mPOST /api/croche 201 145 - 119.024 ms[39m
+[35m[39m
+2022-09-10 06:59:53 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 06:59:53 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 07:00:02 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 07:00:02 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 07:00:11 - [35mhttp[39m:[35mPOST /api/croche 422 202 - 5.598 ms[39m
+[35m[39m
+2022-09-10 09:04:59 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:05:00 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:09:25 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:09:25 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:11:23 - [35mhttp[39m:[35mPOST /api/croche 422 295 - 6.107 ms[39m
+[35m[39m
+2022-09-10 09:21:17 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:21:17 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:23:51 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:23:51 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:25:21 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:25:21 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:25:39 - [35mhttp[39m:[35mPOST /api/croche 422 41 - 10.770 ms[39m
+[35m[39m
+2022-09-10 09:27:18 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:27:18 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:27:20 - [35mhttp[39m:[35mPOST /api/croche 422 41 - 10.538 ms[39m
+[35m[39m
+2022-09-10 09:28:19 - [35mhttp[39m:[35mPOST /api/croche 422 41 - 7.673 ms[39m
+[35m[39m
+2022-09-10 09:29:02 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:29:02 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:29:07 - [31merror[39m:[31mOcorreu um erro no sistema: Croche validation failed: size: Cast to Number failed for value "10cm" (type string) at path "size"[39m
+2022-09-10 09:29:26 - [35mhttp[39m:[35mPOST /api/croche - - - - ms[39m
+[35m[39m
+2022-09-10 09:29:57 - [31merror[39m:[31mOcorreu um erro no sistema: Croche validation failed: size: Cast to Number failed for value "10cm" (type string) at path "size"[39m
+2022-09-10 09:29:59 - [35mhttp[39m:[35mPOST /api/croche - - - - ms[39m
+[35m[39m
+2022-09-10 09:35:55 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:35:55 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:36:11 - [31merror[39m:[31mOcorreu um erro no sistema: Croche validation failed: size: Cast to Number failed for value "10cm" (type string) at path "size"[39m
+2022-09-10 09:37:19 - [35mhttp[39m:[35mPOST /api/croche - - - - ms[39m
+[35m[39m
+2022-09-10 09:37:21 - [35mhttp[39m:[35mPOST /api/croche 201 350 - 79.849 ms[39m
+[35m[39m
+2022-09-10 09:37:51 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:37:51 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:38:07 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:38:07 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:38:18 - [35mhttp[39m:[35mPOST /api/croche 422 41 - 11.489 ms[39m
+[35m[39m
+2022-09-10 09:38:43 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:38:43 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:38:57 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:38:57 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:38:58 - [35mhttp[39m:[35mPOST /api/croche 422 41 - 9.970 ms[39m
+[35m[39m
+2022-09-10 09:39:04 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:39:04 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:39:04 - [35mhttp[39m:[35mPOST /api/croche 422 41 - 9.896 ms[39m
+[35m[39m
+2022-09-10 09:39:33 - [35mhttp[39m:[35mPOST /api/croche 422 41 - 5.119 ms[39m
+[35m[39m
+2022-09-10 09:39:39 - [35mhttp[39m:[35mPOST /api/croche 422 41 - 3.534 ms[39m
+[35m[39m
+2022-09-10 09:40:13 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:40:13 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:40:15 - [35mhttp[39m:[35mPOST /api/croche 422 41 - 10.423 ms[39m
+[35m[39m
+2022-09-10 09:40:20 - [35mhttp[39m:[35mPOST /api/croche 422 41 - 3.578 ms[39m
+[35m[39m
+2022-09-10 09:41:08 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:41:08 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:41:27 - [35mhttp[39m:[35mPOST /api/croche 422 28 - 12.383 ms[39m
+[35m[39m
+2022-09-10 09:42:19 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:42:19 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:42:26 - [35mhttp[39m:[35mPOST /api/croche 422 28 - 12.108 ms[39m
+[35m[39m
+2022-09-10 09:42:55 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:42:55 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:42:58 - [35mhttp[39m:[35mPOST /api/croche 422 28 - 9.965 ms[39m
+[35m[39m
+2022-09-10 09:43:45 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:43:45 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:43:49 - [35mhttp[39m:[35mPOST /api/croche 422 41 - 10.591 ms[39m
+[35m[39m
+2022-09-10 09:44:34 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:44:34 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:45:47 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:45:47 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:46:01 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:46:01 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:46:12 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:46:12 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:46:24 - [35mhttp[39m:[35mPOST /api/croche 422 62 - 12.254 ms[39m
+[35m[39m
+2022-09-10 09:46:37 - [31merror[39m:[31mOcorreu um erro no sistema: Croche validation failed: deadline: Cast to Number failed for value "5 dias" (type string) at path "deadline"[39m
+2022-09-10 09:47:00 - [35mhttp[39m:[35mPOST /api/croche - - - - ms[39m
+[35m[39m
+2022-09-10 09:47:01 - [31merror[39m:[31mOcorreu um erro no sistema: Croche validation failed: deadline: Cast to Number failed for value "cindo dias" (type string) at path "deadline"[39m
+2022-09-10 09:47:07 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:47:07 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:47:38 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:47:38 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:47:50 - [35mhttp[39m:[35mPOST /api/croche 201 354 - 104.024 ms[39m
+[35m[39m
+2022-09-10 09:55:14 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 09:55:14 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 09:57:29 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value ":631c8775182156a2f5fee7db" (type string) at path "_id" for model "Croche"[39m
+2022-09-10 09:57:48 - [35mhttp[39m:[35mGET /api/croche/:631c8775182156a2f5fee7db - - - - ms[39m
+[35m[39m
+2022-09-10 09:57:49 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value ":631c8775182156a2f5fee7dn" (type string) at path "_id" for model "Croche"[39m
+2022-09-10 09:57:53 - [35mhttp[39m:[35mGET /api/croche/:631c8775182156a2f5fee7dn - - - - ms[39m
+[35m[39m
+2022-09-10 09:57:55 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value ":631c8775182156a2f5fee7dn" (type string) at path "_id" for model "Croche"[39m
+2022-09-10 09:58:06 - [35mhttp[39m:[35mGET /api//croche/:631c8775182156a2f5fee7dn - - - - ms[39m
+[35m[39m
+2022-09-10 09:59:45 - [35mhttp[39m:[35mGET /api//croche/631c8775182156a2f5fee7db - - - - ms[39m
+[35m[39m
+2022-09-10 10:13:57 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 10:13:57 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 10:15:11 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 10:15:11 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 10:15:53 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 10:15:53 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 10:15:57 - [35mhttp[39m:[35mGET /api/croche/631c8775182156a2f5fee7db 200 354 - 78.548 ms[39m
+[35m[39m
+2022-09-10 10:16:07 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value "631c8775182156a2f5fee7dn" (type string) at path "_id" for model "Croche"[39m
+2022-09-10 10:16:11 - [35mhttp[39m:[35mGET /api/croche/631c8775182156a2f5fee7dn - - - - ms[39m
+[35m[39m
+2022-09-10 10:17:07 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 10:17:07 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 10:17:13 - [35mhttp[39m:[35mGET /api/croche/631c8775182156a2f5fee7db 200 354 - 118.426 ms[39m
+[35m[39m
+2022-09-10 10:17:19 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value "631c8775182156a2f5fee7dn" (type string) at path "_id" for model "Croche"[39m
+2022-09-10 10:17:28 - [35mhttp[39m:[35mGET /api/croche/631c8775182156a2f5fee7dn - - - - ms[39m
+[35m[39m
+2022-09-10 10:17:32 - [35mhttp[39m:[35mGET /api/croche/631c8775182156a2f5fee7db 200 354 - 64.255 ms[39m
+[35m[39m
+2022-09-10 10:20:34 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 10:20:34 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 10:21:18 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-10 10:21:18 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-10 10:24:03 - [35mhttp[39m:[35mGET /api/croche 200 3757 - 104.302 ms[39m
+[35m[39m
+2022-09-11 05:46:02 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-11 05:46:02 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-11 06:28:20 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-11 06:28:20 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-11 06:28:54 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-11 06:28:54 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-11 06:30:06 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value "jif6sakjdf9" (type string) at path "_id" for model "Croche"[39m
+2022-09-11 06:30:14 - [35mhttp[39m:[35mDELETE /api/croche/jif6sakjdf9 - - - - ms[39m
+[35m[39m
+2022-09-11 06:30:34 - [31merror[39m:[31mOcorreu um erro no sistema: Cast to ObjectId failed for value "jif6sakjdf9" (type string) at path "_id" for model "Croche"[39m
+2022-09-11 06:30:37 - [35mhttp[39m:[35mDELETE /api//croche/jif6sakjdf9 - - - - ms[39m
+[35m[39m
+2022-09-11 06:32:28 - [35mhttp[39m:[35mDELETE /api//croche/6319d7400840477bebf75231 - - - - ms[39m
+[35m[39m
+2022-09-11 06:33:25 - [35mhttp[39m:[35mDELETE /api/croche/6319d7400840477bebf75231 - - - - ms[39m
+[35m[39m
+2022-09-11 06:37:07 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-11 06:37:07 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-11 06:37:38 - [35mhttp[39m:[35mGET /api/croche 200 3757 - 90.126 ms[39m
+[35m[39m
+2022-09-11 06:38:07 - [35mhttp[39m:[35mDELETE /api/croche/6319d7400840477bebf75231 200 39 - 154.824 ms[39m
+[35m[39m
+2022-09-11 06:38:14 - [35mhttp[39m:[35mGET /api/croche 200 3636 - 72.204 ms[39m
+[35m[39m
+2022-09-11 06:38:29 - [35mhttp[39m:[35mDELETE /api/croche/6319d7ed0840477bebf75233 200 39 - 122.211 ms[39m
+[35m[39m
+2022-09-11 06:38:34 - [35mhttp[39m:[35mGET /api/croche 200 3515 - 62.228 ms[39m
+[35m[39m
+2022-09-11 06:39:00 - [35mhttp[39m:[35mDELETE /api/croche/6319eb366be89d28148b77ca 200 39 - 124.244 ms[39m
+[35m[39m
+2022-09-11 06:39:09 - [35mhttp[39m:[35mDELETE /api/croche/6319eb556be89d28148b77cc 200 39 - 122.564 ms[39m
+[35m[39m
+2022-09-11 06:39:21 - [35mhttp[39m:[35mDELETE /api/croche/6319ec2b6be89d28148b77ce 200 39 - 336.368 ms[39m
+[35m[39m
+2022-09-11 06:39:24 - [35mhttp[39m:[35mGET /api/croche 200 3152 - 173.602 ms[39m
+[35m[39m
+2022-09-11 06:40:28 - [35mhttp[39m:[35mPOST /api/croche 201 418 - 79.585 ms[39m
+[35m[39m
+2022-09-11 06:43:15 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-11 06:43:15 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-11 06:44:33 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-11 06:44:33 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-11 06:45:08 - [35mhttp[39m:[35mPATCH /api/croche/6319ec2b6be89d28148b77ce 404 32 - 77.364 ms[39m
+[35m[39m
+2022-09-11 06:50:04 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-11 06:50:04 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-11 06:50:56 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-11 06:50:56 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-11 07:07:04 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-11 07:07:04 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-11 07:11:44 - [35mhttp[39m:[35mGET /api/croche 200 1126 - 79.833 ms[39m
+[35m[39m
+2022-09-11 07:15:01 - [35mhttp[39m:[35mDELETE /api/croche/631c8501aeeb33887cbe9f91 200 39 - 130.879 ms[39m
+[35m[39m
+2022-09-11 07:15:37 - [35mhttp[39m:[35mGET /api/croche 200 775 - 59.079 ms[39m
+[35m[39m
+2022-09-11 09:05:14 - [35mhttp[39m:[35mGET /api/croche 200 775 - 59.601 ms[39m
+[35m[39m
+2022-09-11 09:05:20 - [35mhttp[39m:[35mDELETE /api/croche/631c8501aeeb33887cbe9f91 404 32 - 62.334 ms[39m
+[35m[39m
+2022-09-11 09:06:43 - [32minfo[39m:[32mA conecção ao banco de dados foi feita com sucesso!![39m
+2022-09-11 09:06:43 - [32minfo[39m:[32mApp funcionando na porta - 8080.[39m
+2022-09-11 09:07:55 - [35mhttp[39m:[35mDELETE /api/croche/631c8501aeeb33887cbe9f91 404 32 - 70.271 ms[39m
+[35m[39m
+2022-09-11 09:08:01 - [35mhttp[39m:[35mPATCH /api/croche/631c8775182156a2f5fee7db 422 49 - 9.921 ms[39m
+[35m[39m
